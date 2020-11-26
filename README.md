@@ -23,4 +23,8 @@ Things you may want to cover:
 
 * ...
 
+
 山崎「コンフリクトBの記述ですよ」
+
+山崎「コンフリクトAの記述ですよ」
+
